@@ -1,0 +1,3 @@
+Mystic Sea Online launcher patch smoke test.
+Version=1.0.1
+Purpose=Verify GitHub and Vercel patch delivery.

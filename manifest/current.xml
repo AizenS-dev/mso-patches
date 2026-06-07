@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <Version>1.0.1</Version>
+  <ReleaseDate>2026-06-07</ReleaseDate>
+  <Files>
+    <File>
+      <Path>calua_err.txt</Path>
+      <Size>108</Size>
+      <SHA256>b072b2557e12b3c5b34683f2f08d11d3919717812e714d5d908aeeb0c7d8a610</SHA256>
+      <Url>patches/1.0.1/calua_err.txt</Url>
+    </File>
+  </Files>
+  <Changelog>Launcher patch smoke test through GitHub-hosted patch files.</Changelog>
+</Manifest>
