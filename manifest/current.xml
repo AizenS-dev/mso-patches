@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.2</Version>
+  <Version>1.0.3</Version>
   <ReleaseDate>2026-06-07</ReleaseDate>
   <Files>
     <File>
@@ -8,6 +8,18 @@
       <Size>108</Size>
       <SHA256>b072b2557e12b3c5b34683f2f08d11d3919717812e714d5d908aeeb0c7d8a610</SHA256>
       <Url>patches/1.0.1/calua_err.txt</Url>
+    </File>
+    <File>
+      <Path>scripts/table/Characterinfo.bin</Path>
+      <Size>2550012</Size>
+      <SHA256>dd554ca332ee7d61307e94c147162b9e3ec79062d2b92f756c3cfca5966de3e1</SHA256>
+      <Url>patches/1.0.3/scripts/table/Characterinfo.bin</Url>
+    </File>
+    <File>
+      <Path>scripts/table/iteminfo.bin</Path>
+      <Size>30146572</Size>
+      <SHA256>410e0489032d7fba36ba4bbf1e6be6bcb85ce187c3c897e5c5b034eebae6ba5d</SHA256>
+      <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
       <Path>system/CaLua.dll</Path>
