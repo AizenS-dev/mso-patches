@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <ReleaseDate>2026-06-07</ReleaseDate>
   <Files>
     <File>
@@ -9,6 +9,18 @@
       <SHA256>b072b2557e12b3c5b34683f2f08d11d3919717812e714d5d908aeeb0c7d8a610</SHA256>
       <Url>patches/1.0.1/calua_err.txt</Url>
     </File>
+    <File>
+      <Path>system/CaLua.dll</Path>
+      <Size>274432</Size>
+      <SHA256>83159a94acdedb92422f3f50a3e0c3fe3b8cf4b6f1591fc3644e78e97d0e80d9</SHA256>
+      <Url>patches/1.0.2/system/CaLua.dll</Url>
+    </File>
+    <File>
+      <Path>system/en_US.txt</Path>
+      <Size>84239</Size>
+      <SHA256>23df42f6c8412c740b8a172f8dcf313d78b2a3b8c56404e4280dd244a5ced701</SHA256>
+      <Url>patches/1.0.2/system/en_US.txt</Url>
+    </File>
   </Files>
-  <Changelog>Launcher patch smoke test through GitHub-hosted patch files.</Changelog>
+  <Changelog>Updated item table and textures.</Changelog>
 </Manifest>

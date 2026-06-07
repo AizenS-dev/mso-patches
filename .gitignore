@@ -1,0 +1,3 @@
+# Local workflow helpers. The live patch repo only needs manifest/ and patches/.
+/PUSHING_UPDATES.md
+/scripts/
