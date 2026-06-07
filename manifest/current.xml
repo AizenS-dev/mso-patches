@@ -12,13 +12,13 @@
     <File>
       <Path>scripts/table/Characterinfo.bin</Path>
       <Size>2550012</Size>
-      <SHA256>dd554ca332ee7d61307e94c147162b9e3ec79062d2b92f756c3cfca5966de3e1</SHA256>
+      <SHA256>89d5d24d7003c0e441ead6d686b177557bba2afbf133385c22bc769f8f307634</SHA256>
       <Url>patches/1.0.3/scripts/table/Characterinfo.bin</Url>
     </File>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146572</Size>
-      <SHA256>410e0489032d7fba36ba4bbf1e6be6bcb85ce187c3c897e5c5b034eebae6ba5d</SHA256>
+      <SHA256>a536f38c2087d86b8cf0fb67ea4120ff0922b09d93f9ab5d2fb50cea1ef3b078</SHA256>
       <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
