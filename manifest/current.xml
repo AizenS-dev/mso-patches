@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
   <Version>1.0.4</Version>
-  <ReleaseDate>.</ReleaseDate>
+  <ReleaseDate>2026-06-12</ReleaseDate>
   <Files>
     <File>
       <Path>calua_err.txt</Path>
@@ -28,34 +28,16 @@
       <Url>patches/1.0.4/scripts/table/Characterinfo.bin</Url>
     </File>
     <File>
-      <Path>scripts/table/Characterinfo.bin.spx</Path>
-      <Size>2550180</Size>
-      <SHA256>aaf5c65071cc7317013377041654f9298b432cbc885856459c12e9c67109bf13</SHA256>
-      <Url>patches/1.0.4/scripts/table/Characterinfo.bin.spx</Url>
-    </File>
-    <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
       <SHA256>0ac33fec49af001598ed4c872747aa51f55a2d7014c0e79844e998433fd2bd37</SHA256>
       <Url>patches/1.0.4/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
-      <Path>scripts/table/iteminfo.txt.spx</Path>
-      <Size>2493940</Size>
-      <SHA256>17c45501c4029e44c70ca429fe566163f8251f8ad568b3afcc8a7656853ce59a</SHA256>
-      <Url>patches/1.0.4/scripts/table/iteminfo.txt.spx</Url>
-    </File>
-    <File>
       <Path>scripts/table/ServerSet.bin</Path>
       <Size>20900</Size>
-      <SHA256>740b29cf77f17696fc0b93f6b1318ff6e08e26dfbc1748c866680efbfa50735a</SHA256>
+      <SHA256>27d7110eaa9bb7384f28920bd9546822da6c0605e25932f0f06c36b6df87b603</SHA256>
       <Url>patches/1.0.4/scripts/table/ServerSet.bin</Url>
-    </File>
-    <File>
-      <Path>scripts/txt/server.tx</Path>
-      <Size>11</Size>
-      <SHA256>5c30b4ce8352dd82e33263bb24ea8f67e0ce51e94bfdc32e2349b31cb96e44ae</SHA256>
-      <Url>patches/1.0.4/scripts/txt/server.tx</Url>
     </File>
     <File>
       <Path>scripts/txt/server.tx.spx</Path>
