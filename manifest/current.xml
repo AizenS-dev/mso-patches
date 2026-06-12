@@ -10,6 +10,12 @@
       <Url>patches/1.0.1/calua_err.txt</Url>
     </File>
     <File>
+      <Path>scripts/kop.cfg</Path>
+      <Size>1625</Size>
+      <SHA256>6b27403872469d5a2562a2f9dcfd074f050d052fa5d6e9233ace188acf8d987d</SHA256>
+      <Url>patches/1.0.4/scripts/kop.cfg</Url>
+    </File>
+    <File>
       <Path>scripts/kop.cfg.spx</Path>
       <Size>1684</Size>
       <SHA256>084075d898e53eceb7a69ea89781d9105f611ac7e493bceef69563e9bddfe3dd</SHA256>
@@ -17,9 +23,9 @@
     </File>
     <File>
       <Path>scripts/table/Characterinfo.bin</Path>
-      <Size>2550012</Size>
-      <SHA256>89d5d24d7003c0e441ead6d686b177557bba2afbf133385c22bc769f8f307634</SHA256>
-      <Url>patches/1.0.3/scripts/table/Characterinfo.bin</Url>
+      <Size>2550100</Size>
+      <SHA256>0125622a9a8d68e4a93ef5396e530d4c46bbea788ef4d8639f3589b032f86336</SHA256>
+      <Url>patches/1.0.4/scripts/table/Characterinfo.bin</Url>
     </File>
     <File>
       <Path>scripts/table/Characterinfo.bin.spx</Path>
@@ -29,9 +35,9 @@
     </File>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
-      <Size>30146572</Size>
-      <SHA256>a536f38c2087d86b8cf0fb67ea4120ff0922b09d93f9ab5d2fb50cea1ef3b078</SHA256>
-      <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
+      <Size>30146660</Size>
+      <SHA256>0ac33fec49af001598ed4c872747aa51f55a2d7014c0e79844e998433fd2bd37</SHA256>
+      <Url>patches/1.0.4/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
       <Path>scripts/table/iteminfo.txt.spx</Path>
