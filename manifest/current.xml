@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
   <Version>1.0.4</Version>
-  <ReleaseDate>2026-06-12</ReleaseDate>
+  <ReleaseDate>.</ReleaseDate>
   <Files>
     <File>
       <Path>calua_err.txt</Path>
@@ -48,7 +48,7 @@
     <File>
       <Path>scripts/table/ServerSet.bin</Path>
       <Size>20900</Size>
-      <SHA256>27d7110eaa9bb7384f28920bd9546822da6c0605e25932f0f06c36b6df87b603</SHA256>
+      <SHA256>740b29cf77f17696fc0b93f6b1318ff6e08e26dfbc1748c866680efbfa50735a</SHA256>
       <Url>patches/1.0.4/scripts/table/ServerSet.bin</Url>
     </File>
     <File>
