@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.3</Version>
+  <Version>1.0.4</Version>
   <ReleaseDate>2026-06-12</ReleaseDate>
   <Files>
     <File>
@@ -10,16 +10,40 @@
       <Url>patches/1.0.1/calua_err.txt</Url>
     </File>
     <File>
+      <Path>scripts/kop.cfg.spx</Path>
+      <Size>1684</Size>
+      <SHA256>084075d898e53eceb7a69ea89781d9105f611ac7e493bceef69563e9bddfe3dd</SHA256>
+      <Url>patches/1.0.4/scripts/kop.cfg.spx</Url>
+    </File>
+    <File>
       <Path>scripts/table/Characterinfo.bin</Path>
       <Size>2550012</Size>
       <SHA256>89d5d24d7003c0e441ead6d686b177557bba2afbf133385c22bc769f8f307634</SHA256>
       <Url>patches/1.0.3/scripts/table/Characterinfo.bin</Url>
     </File>
     <File>
+      <Path>scripts/table/Characterinfo.bin.spx</Path>
+      <Size>2550180</Size>
+      <SHA256>aaf5c65071cc7317013377041654f9298b432cbc885856459c12e9c67109bf13</SHA256>
+      <Url>patches/1.0.4/scripts/table/Characterinfo.bin.spx</Url>
+    </File>
+    <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146572</Size>
       <SHA256>a536f38c2087d86b8cf0fb67ea4120ff0922b09d93f9ab5d2fb50cea1ef3b078</SHA256>
       <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
+    </File>
+    <File>
+      <Path>scripts/table/iteminfo.txt.spx</Path>
+      <Size>2493940</Size>
+      <SHA256>17c45501c4029e44c70ca429fe566163f8251f8ad568b3afcc8a7656853ce59a</SHA256>
+      <Url>patches/1.0.4/scripts/table/iteminfo.txt.spx</Url>
+    </File>
+    <File>
+      <Path>scripts/txt/server.tx.spx</Path>
+      <Size>84</Size>
+      <SHA256>4348a39b4e59b0f7fc9e96084b454d17f67a43bbeff91801123fdcfec573d647</SHA256>
+      <Url>patches/1.0.4/scripts/txt/server.tx.spx</Url>
     </File>
     <File>
       <Path>system/CaLua.dll</Path>
@@ -34,5 +58,5 @@
       <Url>patches/1.0.2/system/en_US.txt</Url>
     </File>
   </Files>
-  <Changelog>Updated item table and textures.</Changelog>
+  <Changelog>Update with client glitch</Changelog>
 </Manifest>
