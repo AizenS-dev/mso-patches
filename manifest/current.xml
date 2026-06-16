@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.4</Version>
-  <ReleaseDate>2026-06-12</ReleaseDate>
+  <Version>1.0.5</Version>
+  <ReleaseDate>2026-06-16</ReleaseDate>
   <Files>
     <File>
       <Path>calua_err.txt</Path>
@@ -34,10 +34,22 @@
       <Url>patches/1.0.4/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
+      <Path>scripts/table/iteminfo.txt</Path>
+      <Size>2492512</Size>
+      <SHA256>e0e2a734b4dfd6e6ffaa9b878ee65635e6fc3839069e97389399e47878013b23</SHA256>
+      <Url>patches/1.0.5/scripts/table/iteminfo.txt</Url>
+    </File>
+    <File>
       <Path>scripts/table/ServerSet.bin</Path>
       <Size>20900</Size>
       <SHA256>27d7110eaa9bb7384f28920bd9546822da6c0605e25932f0f06c36b6df87b603</SHA256>
       <Url>patches/1.0.4/scripts/table/ServerSet.bin</Url>
+    </File>
+    <File>
+      <Path>scripts/table/skillinfo.txt</Path>
+      <Size>126216</Size>
+      <SHA256>961934f958a08104dab1b5e721d3fcf426c8a3236368690814662c0e8f8a383f</SHA256>
+      <Url>patches/1.0.5/scripts/table/skillinfo.txt</Url>
     </File>
     <File>
       <Path>scripts/txt/server.tx.spx</Path>
@@ -57,6 +69,12 @@
       <SHA256>23df42f6c8412c740b8a172f8dcf313d78b2a3b8c56404e4280dd244a5ced701</SHA256>
       <Url>patches/1.0.2/system/en_US.txt</Url>
     </File>
+    <File>
+      <Path>texture/icon/s0468.png</Path>
+      <Size>1834</Size>
+      <SHA256>e35156e7204872a90d87c05272229fac8c7caca6a258cadd013f5fb5c4ae3b19</SHA256>
+      <Url>patches/1.0.5/texture/icon/s0468.png</Url>
+    </File>
   </Files>
-  <Changelog>Update with client glitch</Changelog>
+  <Changelog>Add Herbalist Bolt PvE skill.</Changelog>
 </Manifest>
