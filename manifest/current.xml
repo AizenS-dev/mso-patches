@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <ReleaseDate>2026-06-19</ReleaseDate>
   <Files>
     <File>
@@ -9,6 +9,12 @@
       <SHA256>4caf2e618b5e42c201cf5da6cf34530911ec9d5dfc443d35b13306447ea57e12</SHA256>
       <Url>patches/1.0.1/scripts/table/iteminfo.bin</Url>
     </File>
+    <File>
+      <Path>system/Game.exe</Path>
+      <Size>4355072</Size>
+      <SHA256>6d1cb40d0c304fcfaae125f8c0aeed8cf12467a703aed2451f79a45686787ac8</SHA256>
+      <Url>patches/1.0.2/system/Game.exe</Url>
+    </File>
   </Files>
-  <Changelog>Updated iteminfo.</Changelog>
+  <Changelog>Bank Bug Fixes.</Changelog>
 </Manifest>
