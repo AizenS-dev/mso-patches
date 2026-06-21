@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.2</Version>
-  <ReleaseDate>2026-06-19</ReleaseDate>
+  <Version>1.0.3</Version>
+  <ReleaseDate>2026-06-21</ReleaseDate>
   <Files>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
-      <SHA256>4caf2e618b5e42c201cf5da6cf34530911ec9d5dfc443d35b13306447ea57e12</SHA256>
-      <Url>patches/1.0.1/scripts/table/iteminfo.bin</Url>
+      <SHA256>ca20acfc90c8cf14f53595c222bd24e36c5ad7715512790c466b874d6874858c</SHA256>
+      <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
       <Path>system/Game.exe</Path>
       <Size>4355072</Size>
-      <SHA256>6d1cb40d0c304fcfaae125f8c0aeed8cf12467a703aed2451f79a45686787ac8</SHA256>
-      <Url>patches/1.0.2/system/Game.exe</Url>
+      <SHA256>5b01456eada845ddffe4338e6669567d5643944070f910107453dca801553848</SHA256>
+      <Url>patches/1.0.3/system/Game.exe</Url>
+    </File>
+    <File>
+      <Path>texture/ui/Settings_Game.wsd</Path>
+      <Size>524432</Size>
+      <SHA256>acb8b40842cd092560d6d5984b935f13ab510399d7e86227fa92fb6ff5c0d266</SHA256>
+      <Url>patches/1.0.3/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Bank Bug Fixes.</Changelog>
+  <Changelog>Add skill-only monster targeting setting and clarify fairy fruit level caps.</Changelog>
 </Manifest>
