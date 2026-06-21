@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.3</Version>
+  <Version>1.0.4</Version>
   <ReleaseDate>2026-06-21</ReleaseDate>
   <Files>
+    <File>
+      <Path>scripts/lua/forms/system.bin.spx</Path>
+      <Size>26100</Size>
+      <SHA256>7e62540be0f57e65e22b9c4d38dd4354b0c09945fe4dc21d9833a7a0c126446c</SHA256>
+      <Url>patches/1.0.4/scripts/lua/forms/system.bin.spx</Url>
+    </File>
+    <File>
+      <Path>scripts/lua/forms/system.clu.spx</Path>
+      <Size>26100</Size>
+      <SHA256>93428299caf6770d25c221a5ed2d84e5d4e444702c74103eb6b2d757c1d9883a</SHA256>
+      <Url>patches/1.0.4/scripts/lua/forms/system.clu.spx</Url>
+    </File>
+    <File>
+      <Path>scripts/lua/gui.bin.spx</Path>
+      <Size>31108</Size>
+      <SHA256>253573e8d86516b1b21ae928377be970d833ba2f42b5a2d1b5e05bb6ba37bcb0</SHA256>
+      <Url>patches/1.0.4/scripts/lua/gui.bin.spx</Url>
+    </File>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
@@ -22,5 +40,5 @@
       <Url>patches/1.0.3/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Add skill-only monster targeting setting and clarify fairy fruit level caps.</Changelog>
+  <Changelog>Add missing settings scripts for skill-only monster targeting.</Changelog>
 </Manifest>
