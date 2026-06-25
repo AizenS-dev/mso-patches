@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.4</Version>
-  <ReleaseDate>2026-06-21</ReleaseDate>
+  <Version>1.0.5</Version>
+  <ReleaseDate>2026-06-25</ReleaseDate>
   <Files>
     <File>
       <Path>scripts/lua/forms/system.bin.spx</Path>
@@ -24,21 +24,21 @@
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
-      <SHA256>ca20acfc90c8cf14f53595c222bd24e36c5ad7715512790c466b874d6874858c</SHA256>
-      <Url>patches/1.0.3/scripts/table/iteminfo.bin</Url>
+      <SHA256>ddb300d078c4044243de9cdd9e0ba6fd62800414e41f5c6324e37aa48f8887f3</SHA256>
+      <Url>patches/1.0.5/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
       <Path>system/Game.exe</Path>
-      <Size>4355072</Size>
-      <SHA256>5b01456eada845ddffe4338e6669567d5643944070f910107453dca801553848</SHA256>
-      <Url>patches/1.0.3/system/Game.exe</Url>
+      <Size>4355584</Size>
+      <SHA256>c4c6b443aec325d75a6d1b1a0ba47cf2523dcff11549d7c2847952ab5433c6f2</SHA256>
+      <Url>patches/1.0.5/system/Game.exe</Url>
     </File>
     <File>
       <Path>texture/ui/Settings_Game.wsd</Path>
       <Size>524432</Size>
       <SHA256>acb8b40842cd092560d6d5984b935f13ab510399d7e86227fa92fb6ff5c0d266</SHA256>
-      <Url>patches/1.0.3/texture/ui/Settings_Game.wsd</Url>
+      <Url>patches/1.0.5/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Add missing settings scripts for skill-only monster targeting.</Changelog>
+  <Changelog>Updated item table and game settings.</Changelog>
 </Manifest>
