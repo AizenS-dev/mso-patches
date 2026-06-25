@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.5</Version>
+  <Version>1.0.6</Version>
   <ReleaseDate>2026-06-25</ReleaseDate>
   <Files>
     <File>
@@ -22,6 +22,18 @@
       <Url>patches/1.0.4/scripts/lua/gui.bin.spx</Url>
     </File>
     <File>
+      <Path>scripts/lua/mission/missioninfo.bin</Path>
+      <Size>54408</Size>
+      <SHA256>840247340b0852ef8160364459373fee95cd4f418c75645718a1ca1f035a146c</SHA256>
+      <Url>patches/1.0.6/scripts/lua/mission/missioninfo.bin</Url>
+    </File>
+    <File>
+      <Path>scripts/lua/mission/missioninfo.bin.spx</Path>
+      <Size>54484</Size>
+      <SHA256>a9dd3ec5d024c7683f7b5082f28b7675b74dcfbb1f2641961ba4de02d64ba668</SHA256>
+      <Url>patches/1.0.6/scripts/lua/mission/missioninfo.bin.spx</Url>
+    </File>
+    <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
       <SHA256>ddb300d078c4044243de9cdd9e0ba6fd62800414e41f5c6324e37aa48f8887f3</SHA256>
@@ -40,5 +52,5 @@
       <Url>patches/1.0.5/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Updated item table and game settings.</Changelog>
+  <Changelog>Updated daily quest names.</Changelog>
 </Manifest>
