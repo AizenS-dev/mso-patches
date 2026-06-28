@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.6</Version>
-  <ReleaseDate>2026-06-25</ReleaseDate>
+  <Version>1.0.7</Version>
+  <ReleaseDate>2026-06-28</ReleaseDate>
   <Files>
     <File>
       <Path>scripts/lua/forms/system.bin.spx</Path>
@@ -41,9 +41,9 @@
     </File>
     <File>
       <Path>system/Game.exe</Path>
-      <Size>4355584</Size>
-      <SHA256>c4c6b443aec325d75a6d1b1a0ba47cf2523dcff11549d7c2847952ab5433c6f2</SHA256>
-      <Url>patches/1.0.5/system/Game.exe</Url>
+      <Size>4357632</Size>
+      <SHA256>bc4ff913b3df357a0ea68afefb7d1905152842ba6acf444358d224aadb347950</SHA256>
+      <Url>patches/1.0.7/system/Game.exe</Url>
     </File>
     <File>
       <Path>texture/ui/Settings_Game.wsd</Path>
@@ -52,5 +52,5 @@
       <Url>patches/1.0.5/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Updated daily quest names.</Changelog>
+  <Changelog>Updated game client.</Changelog>
 </Manifest>
