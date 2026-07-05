@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.8</Version>
+  <Version>1.0.9</Version>
   <ReleaseDate>2026-07-05</ReleaseDate>
   <Files>
     <File>
@@ -22,22 +22,34 @@
       <Url>patches/1.0.4/scripts/lua/gui.bin.spx</Url>
     </File>
     <File>
+      <Path>scripts/lua/mission/mission.bin</Path>
+      <Size>1524</Size>
+      <SHA256>9c63b42d266e5b81534adb0f275b711ba239960e1f34af84493d6cb950febba6</SHA256>
+      <Url>patches/1.0.9/scripts/lua/mission/mission.bin</Url>
+    </File>
+    <File>
       <Path>scripts/lua/mission/mission.bin.spx</Path>
       <Size>1604</Size>
       <SHA256>bda468c7a8d620e113638b9d81b5483c21ab7db912dd57fee6716c590ef7a20f</SHA256>
-      <Url>patches/1.0.8/scripts/lua/mission/mission.bin.spx</Url>
+      <Url>patches/1.0.9/scripts/lua/mission/mission.bin.spx</Url>
     </File>
     <File>
       <Path>scripts/lua/mission/missioninfo.bin</Path>
       <Size>55510</Size>
       <SHA256>e0ee4dfa12109ea4372ae02d73c9c564191bfab7d1761160955f267b86c83968</SHA256>
-      <Url>patches/1.0.8/scripts/lua/mission/missioninfo.bin</Url>
+      <Url>patches/1.0.9/scripts/lua/mission/missioninfo.bin</Url>
     </File>
     <File>
       <Path>scripts/lua/mission/missioninfo.bin.spx</Path>
       <Size>55588</Size>
-      <SHA256>1ee5ea2fbda5cc9e66f4304e148993a7c1ddd957886177c729951387d6a0099f</SHA256>
-      <Url>patches/1.0.8/scripts/lua/mission/missioninfo.bin.spx</Url>
+      <SHA256>b1a3c0b97f6b93f2c6c5778304226740ed259431e4e54b2d51fe1347d631508c</SHA256>
+      <Url>patches/1.0.9/scripts/lua/mission/missioninfo.bin.spx</Url>
+    </File>
+    <File>
+      <Path>scripts/lua/mission/missioninfo.lua.spx</Path>
+      <Size>55588</Size>
+      <SHA256>cf99b83826d912b5e76f82d502329aa14c02b9c59f19ccdd18c57e64d2e3e27d</SHA256>
+      <Url>patches/1.0.9/scripts/lua/mission/missioninfo.lua.spx</Url>
     </File>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
@@ -64,5 +76,5 @@
       <Url>patches/1.0.5/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Added new reset and transfer item support.</Changelog>
+  <Changelog>Added missing mission runtime files.</Changelog>
 </Manifest>
