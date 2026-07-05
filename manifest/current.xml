@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Manifest>
-  <Version>1.0.7</Version>
-  <ReleaseDate>2026-06-28</ReleaseDate>
+  <Version>1.0.8</Version>
+  <ReleaseDate>2026-07-05</ReleaseDate>
   <Files>
     <File>
       <Path>scripts/lua/forms/system.bin.spx</Path>
@@ -22,28 +22,40 @@
       <Url>patches/1.0.4/scripts/lua/gui.bin.spx</Url>
     </File>
     <File>
+      <Path>scripts/lua/mission/mission.bin.spx</Path>
+      <Size>1604</Size>
+      <SHA256>bda468c7a8d620e113638b9d81b5483c21ab7db912dd57fee6716c590ef7a20f</SHA256>
+      <Url>patches/1.0.8/scripts/lua/mission/mission.bin.spx</Url>
+    </File>
+    <File>
       <Path>scripts/lua/mission/missioninfo.bin</Path>
-      <Size>54408</Size>
-      <SHA256>840247340b0852ef8160364459373fee95cd4f418c75645718a1ca1f035a146c</SHA256>
-      <Url>patches/1.0.6/scripts/lua/mission/missioninfo.bin</Url>
+      <Size>55510</Size>
+      <SHA256>e0ee4dfa12109ea4372ae02d73c9c564191bfab7d1761160955f267b86c83968</SHA256>
+      <Url>patches/1.0.8/scripts/lua/mission/missioninfo.bin</Url>
     </File>
     <File>
       <Path>scripts/lua/mission/missioninfo.bin.spx</Path>
-      <Size>54484</Size>
-      <SHA256>a9dd3ec5d024c7683f7b5082f28b7675b74dcfbb1f2641961ba4de02d64ba668</SHA256>
-      <Url>patches/1.0.6/scripts/lua/mission/missioninfo.bin.spx</Url>
+      <Size>55588</Size>
+      <SHA256>1ee5ea2fbda5cc9e66f4304e148993a7c1ddd957886177c729951387d6a0099f</SHA256>
+      <Url>patches/1.0.8/scripts/lua/mission/missioninfo.bin.spx</Url>
     </File>
     <File>
       <Path>scripts/table/iteminfo.bin</Path>
       <Size>30146660</Size>
-      <SHA256>ddb300d078c4044243de9cdd9e0ba6fd62800414e41f5c6324e37aa48f8887f3</SHA256>
-      <Url>patches/1.0.5/scripts/table/iteminfo.bin</Url>
+      <SHA256>2ad904af5ce2679ea0737131eda116794651a3ea039e8d0b13cbd989df6b9776</SHA256>
+      <Url>patches/1.0.8/scripts/table/iteminfo.bin</Url>
     </File>
     <File>
       <Path>system/Game.exe</Path>
-      <Size>4357632</Size>
-      <SHA256>bc4ff913b3df357a0ea68afefb7d1905152842ba6acf444358d224aadb347950</SHA256>
-      <Url>patches/1.0.7/system/Game.exe</Url>
+      <Size>4359168</Size>
+      <SHA256>4ac646055a1d60c24bf83ec563f2417e2689fcbeee3f8eb130c79b026b837098</SHA256>
+      <Url>patches/1.0.8/system/Game.exe</Url>
+    </File>
+    <File>
+      <Path>texture/icon/n9619.png.txe</Path>
+      <Size>2052</Size>
+      <SHA256>6f83fdadd8ec0d85009f91ce1d7229c9c3869411b074e59cf4e06c011aa3f1f8</SHA256>
+      <Url>patches/1.0.8/texture/icon/n9619.png.txe</Url>
     </File>
     <File>
       <Path>texture/ui/Settings_Game.wsd</Path>
@@ -52,5 +64,5 @@
       <Url>patches/1.0.5/texture/ui/Settings_Game.wsd</Url>
     </File>
   </Files>
-  <Changelog>Updated game client.</Changelog>
+  <Changelog>Added new reset and transfer item support.</Changelog>
 </Manifest>
